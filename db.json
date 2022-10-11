@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "another_resource": {
+    "key": "value"
   }
 }
